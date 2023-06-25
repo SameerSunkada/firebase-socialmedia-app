@@ -1,0 +1,32 @@
+[debug] [2023-06-25T02:18:16.089Z] ----------------------------------------------------------------------
+[debug] [2023-06-25T02:18:16.091Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sunka\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-25T02:18:16.091Z] CLI Version:   12.4.0
+[debug] [2023-06-25T02:18:16.092Z] Platform:      win32
+[debug] [2023-06-25T02:18:16.092Z] Node Version:  v18.16.0
+[debug] [2023-06-25T02:18:16.093Z] Time:          Sun Jun 25 2023 07:48:16 GMT+0530 (India Standard Time)
+[debug] [2023-06-25T02:18:16.093Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-25T02:18:16.100Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-25T02:18:16.101Z] > authorizing via signed-in user (sunkadasameer18@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Sameer\Coding\Web_Development\React\firebase-social-media-project
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
